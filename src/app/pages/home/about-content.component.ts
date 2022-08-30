@@ -43,8 +43,8 @@ import { Component, OnInit } from '@angular/core';
           box-sizing: border-box;
 
           position: absolute;
-          /* width: 36.5vw; */
-          width: 90vw;
+          width: 36.5vw;
+          /* width: 90vw; */
           margin: 5vw;
           top: 13vw;
           left: 0px;
